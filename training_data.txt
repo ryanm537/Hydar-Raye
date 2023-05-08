@@ -1,0 +1,58 @@
+question -- how are you
+statement -- to get the the crimson isles, first go to the spiders den
+question -- what are you doing
+statement -- only youtubers get new mics
+question -- is hydar going on
+statement -- these headphones aren't new
+question -- why are you doing that
+statement -- everyone uses the jadg, it's really common
+question -- what are you on
+statement -- never got an m1k actually
+question -- are cows red?
+statement -- A fully maxed black hornet
+question -- where is the stem
+statement -- I will be done with this eventually
+question -- what happened to hyauctions
+statement -- Hyauctions cannot solve your problems.
+question -- where did hydar go
+statement -- I have blessing 5 and caster 6 on my rod
+question -- when do we leave
+statement -- I met you at the spiders den
+question -- arent papers white
+statement -- I knew I forgot something
+question -- did you schedule the appointment
+statement -- most paper is actually black
+question -- where have we met
+statement -- we leave at about 1:00
+question -- what enchants do you have
+statement -- hydar is always there and always will be there
+question -- cant hyauctions do that or no
+statement -- hyauctions is still there it's just sus
+question -- will you ever finish
+statement -- plants don't have stems
+question -- whats your hornet like
+statement -- cows are blue, actually
+question -- you have an m1k?
+statement -- you aren't supposed to ask that
+question -- who uses the jagd tho
+statement -- i dont know
+question -- did you get new headphones?
+statement -- hydar is happening all the time
+question -- is that a new mic?
+statement -- im typing sentences right now
+question -- where the hell is the crimson isles
+statement -- im fine
+question -- is hyauctions hydar?
+question -- is hydar?
+question -- is hydar still cool?
+question -- was hyauctions ever cool?
+question -- will hyauctions ever be cool?
+statement -- i will go to the party
+statement -- i will not go to the party
+statement -- i think that hydar
+statement -- i also think that hydar didn't do anything wrong
+statement -- in fact i think that hydar is everything right
+question -- thoughts on hydar?
+statement -- i have a lot of thoughts on hydar.
+question -- you are on hydar but not in the hydar board how does that make you feel?
+statement -- i feel nothing. I am nothing.
