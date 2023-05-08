@@ -10,3 +10,4 @@ Additionally, some functions were done in C in order to speed up processing.
 
 
 ## First algorithm - compare strings
+![](images/compare-strings-algorithm.png)
