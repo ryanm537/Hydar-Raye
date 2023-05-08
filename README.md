@@ -14,7 +14,7 @@ Each character in a string is mapped to a numerical value (probably ascii code).
 The graphs (G1 and G2) of two strings being analyzed are compared as follows:
 ![](images/compare-strings-algorithm.png)
 
-In paragraph form, first a point on G1 is selected randomly. The slope of that point is noted. Then, random points will be sampled within a given range on the x-axis of that point from G1. These points will be selected using a gaussian distribution with the x value of the original point from G1 as it's center. If one of these random points on G2 with the same slope is found, a hit is logged. If the slope is different (or too different within a threshold), a miss is logged.
+In paragraph form, first a point on G1 is selected randomly. The slope of that point is noted. Then, random points on G2 will be sampled within a given range on the x-axis of that point from G1. These points will be selected using a gaussian distribution with the x value of the original point from G1 as it's center. If one of these random points on G2 with the same slope is found, a hit is logged. If the slope is different (or too different within a threshold), a miss is logged.
 
 The next point on G1 selected will be a fixed distance from the previous, somewhat remniscent of various hill climbing methods. The same process of randomly sampling for hits will be conducted.
 
