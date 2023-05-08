@@ -7,3 +7,6 @@ Raye basically boils down to finding something in the input files that most clos
 In other words, if you ask Raye something, it will see if someone else has asked something similar, and give the response that was given to that previous question. Thus, Raye will emulate prior users' conversations.
 What makes it "advanced" is not the overall algorithm but the process of which the user's input is compared to lines from the files, as well as the selection process for determining the appropriate response. 
 Additionally, some functions were done in C in order to speed up processing.
+
+
+## First algorithm - compare strings
